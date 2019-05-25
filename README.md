@@ -1,2 +1,2 @@
 # FMemoryPool
-Fixed and aligned memory pool
+Fixed and aligned memory pool (In progress)
